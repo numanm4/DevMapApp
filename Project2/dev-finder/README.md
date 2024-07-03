@@ -2,6 +2,16 @@
 
 **dev finder** is a mobile app that helps developers find peers in a geographic area, fostering new projects, knowledge sharing and professional growth.
 
+contains part for project 2 aswell
+
+-Updated IP Address
+
+-added user info to users in db.json and also in users.tsx
+
+-altered some styling in main.tsx
+
+-configured android studio to run vs code project
+
 <div align="center">
     <img src="./documentation/01-signup.png" alt="Sign up screen" width="auto" height="480">
     <img src="./documentation/02-main.png" alt="Main screen" width="auto" height="480">
